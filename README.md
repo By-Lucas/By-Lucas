@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on  técnico de Call Center.
 - 🌱 Atualmente com conhecimento básico em , Sqlite, Mysql, Python, HTML5, Flask, conexão co Azure, Cloud.
 - 👯 Procuro uma oportunidade para fornecer meus conhecimentos no desempenho dos seus serviços.
+- Contatos Whatsapp 74981199190 E-mail tekertudo@gmail.com
 -->
