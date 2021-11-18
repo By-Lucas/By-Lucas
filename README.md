@@ -12,7 +12,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <!--<img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
   <!--<img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://instagram.flec2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/181648502_2807974469457427_2275309431045000765_n.jpg?_nc_ht=instagram.flec2-1.fna.fbcdn.net&_nc_ohc=KkhOpmKMApYAX_mtpnw&edm=AP_V10EBAAAA&ccb=7-4&oh=03d7850e801ba8312c232f4d24e1034b&oe=615C7230&_nc_sid=4f375e">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://instagram.flec2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/181648502_2807974469457427_2275309431045000765_n.jpg?_nc_ht=instagram.flec2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=3qfgi1XfLJIAX99t6C8&edm=ALbqBD0BAAAA&ccb=7-4&oh=8e907a57fe98d8303c34acc5fa5750a2&oe=619DB470&_nc_sid=9a90d6">
 </div>
   
   ##
