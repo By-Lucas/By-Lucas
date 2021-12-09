@@ -1,5 +1,5 @@
 
-## Lucas Silva
+## Lucas Silva | Desenvolverdor Python | Júnior em FullStack
 <div align="center">
   <a href="https://github.com/by-lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=by-lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
