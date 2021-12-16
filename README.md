@@ -51,7 +51,7 @@
 
 ##
 
-<h1 align="center">écnologias que Trabalho🏽</h1>
+<h1 align="center">Técnologias que Trabalho🏽</h1>
  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lucas-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
