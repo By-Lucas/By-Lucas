@@ -1,7 +1,7 @@
 <!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
 -->
-<img min-width="400px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://avatars.githubusercontent.com/u/83965969?s=400&u=c62f7b4057b7854f3373534fd0de53b15ac5d6e8&v=4">
+<img min-width="400px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQHnEdVgMbiI1A/profile-displayphoto-shrink_800_800/0/1639322923119?e=1645056000&v=beta&t=anU5LYQc7rOgb0kIW7HmpDLxKc35wu3fdQrOcf4GCAk">
 
 <h1 align="center"> Bem vindo ao meu portifólio! 🖖🏽</h1>
 
