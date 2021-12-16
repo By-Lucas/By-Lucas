@@ -46,8 +46,7 @@
 
 </div>
 
-
- # - Técnologias que Trabalho
+<h1 align="left">---------------------Técnologias que Trabalho🏽---------------------</h1>
  
 </div>
 <div style="display: inline_block" align="center"><br>
