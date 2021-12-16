@@ -29,6 +29,9 @@
     <a href="https://github.com/by-lucas/" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
+    <a href="https://api.whatsapp.com/send?phone=5574981199190&text=Ol%C3%A1%2C%20tudo%20bem%3F%20Gostaria%20de%20falar%20com%20voc%C3%AA." target="_blank">
+        <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
   
   <!--
     <a href="https://open.spotify.com/user/nuneslara20" target="_blank">
@@ -71,9 +74,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=by-lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-lucas&layout=compact&langs_count=7&theme=dracula"/>                                  </div>                     
 
- 
  #
   
+ <div align="center">
+<h1 align="center">Atualmente estudanndo</h1>
+    <strong>- MongoDB <br>- Data Science & Marchine Learning</strong>
+     
+     
+    
+
+</div> 
+    
+    
  <!--
   ### Algumas das linguagens que trabalho, abaixo.
   
