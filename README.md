@@ -3,11 +3,11 @@
 -->
 <img min-width="400px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQHnEdVgMbiI1A/profile-displayphoto-shrink_800_800/0/1639322923119?e=1645056000&v=beta&t=anU5LYQc7rOgb0kIW7HmpDLxKc35wu3fdQrOcf4GCAk">
 
-<h1 align="center"> Bem vindo ao meu portifólio! 🖖🏽</h1>
+<h1 align="center"> Welcome to my portfolio! 🖖🏽</h1>
 
 <a href="https://www.linkedin.com/in/lucastk/" target="_blank">
     <h1 align="center">
-       Lucas Silva | Desenvolvedor
+       Lucas Silva | Developer
         </a>
     </h1>
     <div align="center">
@@ -54,7 +54,7 @@
 
 ##
 
-<h1 align="center">Técnologias que desenvolvo🏽</h1>
+<h1 align="center">languages I develop:🏽</h1>
  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lucas-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -69,7 +69,7 @@
 
 # 
 
-  <h1 align="center">Algumas das linguagens e bibliotecas que trabalho</h1>
+  <h1 align="center">Some of the languages and libraries I work:</h1>
   
  <div style="display: inline_block"><br>
      <img align="center" alt="PYTHON" height="30" width="80" src="https://img.shields.io/badge/python.py-0d1533?style=for-the-badge&logo=python&logoColor=white">
@@ -96,7 +96,7 @@
  #
   
  <div align="center">
-<h1 align="center">Atualmente estudanndo</h1>
+<h1 align="center">currently studying: </h1>
     <strong>- MongoDB <br>- Data Science & Marchine Learning</strong>
      
      
