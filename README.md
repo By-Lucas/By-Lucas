@@ -32,23 +32,7 @@
     <a href="https://api.whatsapp.com/send?phone=5574981199190&text=Ol%C3%A1%2C%20tudo%20bem%3F%20Gostaria%20de%20falar%20com%20voc%C3%AA." target="_blank">
         <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
-  
-  <!--
-    <a href="https://open.spotify.com/user/nuneslara20" target="_blank">
-        <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    </a>
-  
-    <a href="https://steamcommunity.com/id/arrobalara/" target="_blank">
-        <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-
-    <a href="https://discord.com/channels/arrobalara" target="_blank">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-  -->
-    
-
 </div>
-
 
 </div>
 
@@ -107,7 +91,7 @@
 
   </div>
 
-  <h3><p align="center">Total de Visitas no Perfil</p>
+  <h3><p align="center">Total Profile Visits:</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/by-lucas/count.svg"/>
 </p>
