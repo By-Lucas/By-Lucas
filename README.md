@@ -107,10 +107,7 @@
 
   </div>
 
-   
-  ##
-  <!--
- <div style="display: inline_block" align="center">
- ![Snake animation](https://github.com/By-Lucas/By-Lucas/blob/main/github-contribution-grid-snake.svg)
- </div>                                      
-  -->
+  <h3><p align="center">Total de Visitas no Perfil</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/by-lucas/count.svg"/>
+</p>
