@@ -54,8 +54,8 @@
 
 ##
 
-<h1 align="center">languages I develop:🏽</h1>
- 
+<h1 align="center">languages I develop:</h1>
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lucas-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Django" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
