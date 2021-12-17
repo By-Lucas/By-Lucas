@@ -1,7 +1,7 @@
 <!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
 -->
-<img min-width="400px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQHnEdVgMbiI1A/profile-displayphoto-shrink_800_800/0/1639322923119?e=1645056000&v=beta&t=anU5LYQc7rOgb0kIW7HmpDLxKc35wu3fdQrOcf4GCAk">
+<img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png">
 
 <h1 align="center"> Welcome to my portfolio! 🖖🏽</h1>
 
