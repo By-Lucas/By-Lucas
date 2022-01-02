@@ -4,41 +4,43 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png">
 
 <h1 align="center"> Welcome to my portfolio! 🖖🏽</h1>
+<p> Possuo experiência em Python, Django , Restfull , MySql e MongoDB.
+Desenvolvi diversos trabalhos como freelancer.
+Estou me dedicando ao estudo da língua inglesa, pois sei que esse conhecimento é importante para meu desenvolvimento profissional.
+Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade.
+</p>
 
 <a href="https://www.linkedin.com/in/lucastk/" target="_blank">
     <h1 align="center">
        Lucas Silva | Developer
         </a>
     </h1>
-    <div align="center">
+    <div align="left">
         <a href="lukasmulekezika2@gmail.com">
             <img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">            
         </a>
-     <a href="lukasmulekezika2@hotmail.com">
-        <img alt="E-mail"src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/lucastk/" target="_blank">
-        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  <a href="https://www.instagram.com/lucas_mnc/" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    </a> 
-    </div>
-    <div align="center">
-    <a href="https://github.com/by-lucas/" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=5574981199190&text=Ol%C3%A1%2C%20tudo%20bem%3F%20Gostaria%20de%20falar%20com%20voc%C3%AA." target="_blank">
-        <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
+         <a href="lukasmulekezika2@hotmail.com">
+            <img alt="E-mail"src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+        </a>
+        <a href="https://www.linkedin.com/in/lucastk/" target="_blank">
+            <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="https://www.instagram.com/lucas_mnc/" target="_blank">
+            <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+        <a href="https://github.com/by-lucas/" target="_blank">
+            <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="https://api.whatsapp.com/send?phone=5574981199190&text=Ol%C3%A1%2C%20tudo%20bem%3F%20Gostaria%20de%20falar%20com%20voc%C3%AA." target="_blank">
+            <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
+        </a>
 </div>
 
-</div>
+
 
 ##
 
-<h1 align="center">languages I develop:</h1>
+<h1 align="center">Linguagens que tenho experiência:</h1>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lucas-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -53,7 +55,7 @@
 
 # 
 
-  <h1 align="center">Some of the languages and libraries I work:</h1>
+  <h1 align="center">Algumas linguagéns que desenvolvo frellancers:</h1>
   
  <div style="display: inline_block"><br>
      <img align="center" alt="PYTHON" height="30" width="80" src="https://img.shields.io/badge/python.py-0d1533?style=for-the-badge&logo=python&logoColor=white">
@@ -79,8 +81,8 @@
 
 #
  <div align="center">
-<h1 align="center">currently studying: </h1>
-    <strong>- MongoDB <br>- Data Science & Marchine Learning</strong>
+<h1 align="center">Atualmente testudando: </h1>
+    <strong>- MongoDB <br>- Data Science & Marchine Learning <br>- Inglês</strong>
 </div> 
 
 #
@@ -91,7 +93,7 @@
 
   </div>
 
-  <h3><p align="center">Total Profile Visits:</p>
+  <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/by-lucas/count.svg"/>
 </p>
