@@ -4,9 +4,9 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png">
 
 <h1 align="center"> Welcome to my portfolio! 🖖🏽</h1>
-<p> Possuo experiência em Python, Django , Restfull , MySql e MongoDB.
-Desenvolvi diversos trabalhos como freelancer.
-Estou me dedicando ao estudo da língua inglesa, pois sei que esse conhecimento é importante para meu desenvolvimento profissional.
+<p> Atualmente trabalhando como técnico de Helpdesck, com mais de  7 anos e 6 meses de experiência em redes e TI. Possuo também experiência em Python, Django , Restfull , MySql e MongoDB,.
+Desenvolviendo diversos trabalhos como freelancer.
+Estou me dedicando ao estudo da língua inglesa, DataScence & Marchine Learning, pois sei que esse conhecimento é importante para meu desenvolvimento profissional.
 Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade.
 </p>
 
