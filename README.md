@@ -81,7 +81,7 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade.
 
 #
  <div align="center">
-<h1 align="center">Atualmente testudando: </h1>
+<h1 align="center">Atualmente estudando: </h1>
     <strong>- MongoDB <br>- Data Science & Marchine Learning <br>- Inglês</strong>
 </div> 
 
