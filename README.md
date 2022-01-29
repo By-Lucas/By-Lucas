@@ -55,7 +55,7 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade.
 
 # 
 
-  <h1 align="center">Algumas linguagéns que desenvolvo frellancers:</h1>
+  <h1 align="center">Algumas técnologias que desenvolvo frellancers:</h1>
   
  <div style="display: inline_block"><br>
      <img align="center" alt="PYTHON" height="30" width="80" src="https://img.shields.io/badge/python.py-0d1533?style=for-the-badge&logo=python&logoColor=white">
