@@ -40,17 +40,24 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade.
 
 ##
 
-<h1 align="center">Linguagens que tenho experiência:</h1>
+<h1 align="center">Linguagens e ferramentas:</h1>
+
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Lucas-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Django" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img align="center" alt="Lucas-MYSQL" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-
+  <img align="center" alt="Lucas-Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>-
+  <img align="center" alt="Lucas-MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">-
+  <img align="center" alt="Lucas-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
+  <img align="center" alt="Lucas-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
   <!--<img align="center" alt="Lucas-JS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
-  <img align="center" alt="Lucas-GIT" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Lucas-GITHUB" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Lucas-GIT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">-
+  <img align="center" alt="Lucas-GITHUB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40">-
+  <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
 # 
@@ -97,3 +104,5 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade.
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/by-lucas/count.svg"/>
 </p>
+      
+  
