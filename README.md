@@ -6,7 +6,7 @@
 <h1 align="center">Bem vindo pequeno Dev🖖🏽</h1>
 <p> Com quase 8 anos de experiência HelpDesk, redes e TI. 
 Possuo também experiência em Python, Django, Restfull, MySql e Sqlite. 
-Desenvolviendo diversos trabalhos como freelancer nos tempos livres. Estou me dedicando aos estudos da língua inglesa, DataScence & Marchine Learning, pois sei que esse conhecimento é importante para meu desenvolvimento profissional. 
+Desenvolvendo diversos trabalhos como freelancer nos tempos livres. Estou me dedicando aos estudos da língua inglesa, DataScence & Marchine Learning, pois sei que esse conhecimento é importante para meu desenvolvimento profissional. 
 Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, tenho a certeza de que irei somar junto a empresa. 
 </p>
 
