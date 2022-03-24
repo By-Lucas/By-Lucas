@@ -41,7 +41,19 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
 ##
 
 <h1 align="center">Linguagens e ferramentas:</h1>
+<div style="display: inline_block;" align="center">
 
+|    <h1>Propriedades   |   <h1>Tecnologias   |
+| :---         |     :---      |
+|**Linguagem / IDE** | <img align="center" alt="PYTHON" height="30" src="https://img.shields.io/badge/python.py-0d1533?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="DJANGO" height="30"  src="https://img.shields.io/badge/Django-9966ff?&style=for-the-badge&logo=Django&logoColor=white"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> <img align="center" alt="SUBLIME TEXT" height="30" src="https://img.shields.io/badge/Sublime_Text-61210B?&style=for-the-badge&logo=sublime-text&logoColor=white"> |
+| **API** |  <img align="center" alt="FASAPI" height="30" src="https://img.shields.io/badge/FastApi-008000?&style=for-the-badge&logo=FastApi&logoColor=white"> <img align="center" alt="RESTFULL_API" height="30" src="https://img.shields.io/badge/API_RestFull-527a7a?&style=for-the-badge&logo=RestApi&logoColor=white">|
+|**Conhecimento / Uso** |  <img align="center" alt="PANDAS" height="30" src="https://img.shields.io/badge/pandas-0047b3?&style=for-the-badge&logo=pandas&logoColor=white"> <img align="center" alt="GIT" height="30" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="AWS" height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img align="center" alt="HEROKU" height="30" src="https://img.shields.io/badge/heroku-0d1533?&style=for-the-badge&logo=heroku&logoColor=white">|
+|**Database** |  <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white"> <img align="center" alt="SQLITE" height="30"  src="https://img.shields.io/badge/Sqlite-862d59?style=for-the-badge&logo=Sqlite&logoColor=white">|
+ | **Style** |  <img align="center" alt="PANDAS" height="30" src="https://img.shields.io/badge/bootstrap-cc0066?&style=for-the-badge&logo=bootstrap&logoColor=white"> <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> |
+|**Os** | <img align="center" alt="Windows" height="30" src="https://img.shields.io/badge/windows-862d59?style=for-the-badge&logo=windows&logoColor=white">|
+|**Machine Learning / Deep Learning frameworks** | <img align="center" alt="Numpy" height="30" src="https://img.shields.io/badge/numpy-darkgreen?&style=for-the-badge&logo=numpy&logoColor=white"> <img align="center" alt="MARCHINE_LEARNING" height="30"  src="https://img.shields.io/badge/marchine_learning-0047b3?&style=for-the-badge&logo=marchine-learning&logoColor=white"> <img align="center" alt="OPENCV" height="30"  src="https://img.shields.io/badge/Opencv-0047b3?&style=for-the-badge&logo=opencv&logoColor=white"> <img align="center" alt="MATPLOTLIB" height="30"  src="https://img.shields.io/badge/matplotlib-0047b3?&style=for-the-badge&logo=matplotlib&logoColor=white">|
+
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lucas-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-
@@ -60,24 +72,6 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
-# 
-
-  <h1 align="center">Algumas técnologias que desenvolvo frellancers:</h1>
-  
- <div style="display: inline_block"><br>
-     <img align="center" alt="PYTHON" height="30" width="80" src="https://img.shields.io/badge/python.py-0d1533?style=for-the-badge&logo=python&logoColor=white">
-     <img align="center" alt="CSS" height="30" width="80" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white">
-     <img align="center" alt="MYSQL" height="30" width="80" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white">
-     <img align="center" alt="SQLITE" height="30" width="80" src="https://img.shields.io/badge/Sqlite-862d59?style=for-the-badge&logo=Sqlite&logoColor=white">
-     <img align="center" alt="AWS" height="30" width="80" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-     <img align="center" alt="DJANGO" height="30" width="80" src="https://img.shields.io/badge/Django-9966ff?&style=for-the-badge&logo=Django&logoColor=white">
-     <img align="center" alt="RESTFULL_API" height="30" width="80" src="https://img.shields.io/badge/RestFull-527a7a?&style=for-the-badge&logo=Django&logoColor=white">
-     <img align="center" alt="FASAPI" height="30" width="80" src="https://img.shields.io/badge/FastApi-008000?&style=for-the-badge&logo=FastApi&logoColor=white">
-     <img align="center" alt="GIT" height="30" width="80" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" alt="PANDAS" height="30" width="80" src="https://img.shields.io/badge/pandas-0047b3?&style=for-the-badge&logo=pandas&logoColor=white">
-     <img align="center" alt="PANDAS" height="30" width="80" src="https://img.shields.io/badge/bootstrap-cc0066?&style=for-the-badge&logo=bootstrap&logoColor=white">
-     <!--<img align="center" alt="POSTGRES" height="30" width="80" src="https://img.shields.io/badge/javascript-316192?style=for-the-badge&logo=javascript&logoColor=white">-->
-</div>
 
 # 
 
