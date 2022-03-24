@@ -43,8 +43,8 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
 <h1 align="center">Linguagens e ferramentas:</h1>
 <div style="display: inline_block;" align="center">
 
-|    <h1>Propriedades   |   <h1>Tecnologias   |
-| :---         |     :---      |
+|  **PROPRIEDADES** | **TECNOLOGIAS** |
+| :---------        |     :---------  |
 |**Linguagem / IDE** | <img align="center" alt="PYTHON" height="30" src="https://img.shields.io/badge/python.py-0d1533?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="DJANGO" height="30"  src="https://img.shields.io/badge/Django-9966ff?&style=for-the-badge&logo=Django&logoColor=white"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> <img align="center" alt="SUBLIME TEXT" height="30" src="https://img.shields.io/badge/Sublime_Text-61210B?&style=for-the-badge&logo=sublime-text&logoColor=white"> |
 | **API** |  <img align="center" alt="FASAPI" height="30" src="https://img.shields.io/badge/FastApi-008000?&style=for-the-badge&logo=FastApi&logoColor=white"> <img align="center" alt="RESTFULL_API" height="30" src="https://img.shields.io/badge/API_RestFull-527a7a?&style=for-the-badge&logo=RestApi&logoColor=white">|
 |**Conhecimento / Uso** |  <img align="center" alt="PANDAS" height="30" src="https://img.shields.io/badge/pandas-0047b3?&style=for-the-badge&logo=pandas&logoColor=white"> <img align="center" alt="GIT" height="30" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="AWS" height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img align="center" alt="HEROKU" height="30" src="https://img.shields.io/badge/heroku-0d1533?&style=for-the-badge&logo=heroku&logoColor=white">|
