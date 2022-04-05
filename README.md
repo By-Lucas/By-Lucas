@@ -10,7 +10,7 @@ Desenvolvendo diversos trabalhos como freelancer nos tempos livres. Estou me ded
 Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, tenho a certeza de que irei somar junto a empresa. 
 </p>
 
-<a href="https://www.linkedin.com/in/lucastk/" target="_blank">
+<a href="https://tk-technology.herokuapp.com/" target="_blank">
     <h1 align="center">
        Lucas Silva | Developer
         </a>
