@@ -4,13 +4,12 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png">
 
 <h1 align="center">Bem vindo pequeno Dev🖖🏽</h1>
-<p> Desenvolvedor Pyhon/Django. Venho me desenpenhando nos 
-projetos pessoais e desafíos no esenvolvimento freelancers. Tenho 
-experiencia utilizando as seguintes tecnologías: Python, Django, 
-FastApi, RestApi, Pandas, Numpy, Opencv, Matplotlib, Mysql. E 
-desde já estudo DataSciente, Marchine Learning e inglés, pois sei 
-que esas tecnoogias são muito importantes para o meu futuro 
-profissional
+<p> Desenvolvedor Python/Django. Venho desenvolvendo projetos
+pessoais, desafios e também com trabalhos freelancers. Tenho
+experiencia com a utilização das seguintes tecnologias: Python, Django,
+FastApi, RestApi, Pandas, Numpy, Opencv, Matplotlib, Mysql. Bem como no estudo DataSciente,
+Marchine Learning e da lingua Inglesa. Acredito que com o conhecimento destas tecnologias serão importantes
+para o meu desenvolvimento tanto profissional quanto intelectual.
 </p>
 
 <a href="https://tk-global-technology.herokuapp.com/" target="_blank">
