@@ -4,12 +4,8 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png">
 
 <h1 align="center">Bem vindo pequeno Dev🖖🏽</h1>
-<p> Desenvolvedor Python/Django. Venho desenvolvendo projetos
-pessoais, desafios e também com trabalhos freelancers. Tenho
-experiencia com a utilização das seguintes tecnologias: Python, Django,
-FastApi, RestApi, Pandas, Numpy, Opencv, Matplotlib, Mysql. Bem como no estudo DataSciente,
-Marchine Learning e da lingua Inglesa. Acredito que com o conhecimento destas tecnologias serão importantes
-para o meu desenvolvimento tanto profissional quanto intelectual.
+<p> Sou desenvolvedor Python/Django. Atuando como freelancer em projetos com desenvolvimento web com framework Django, banco de dados MySQL e linguagem Python.
+Tenho conhecimento nas bibliotecas do ecosistema Python. Tecnologias utilizando desenvolvimento de APIs como Fastapi. Outras bibliotecas de machine learning como Pandas, Numpy, Opencv e Matplotlib. 
 </p>
 
 <a href="https://tk-global-technology.herokuapp.com/" target="_blank">
