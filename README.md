@@ -1,7 +1,7 @@
 <!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
 -->
-<img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png">
+<img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
 
 <h1 align="center">Bem vindo pequeno Dev🖖🏽</h1>
 <p> Sou desenvolvedor Python/Django. Atuando como freelancer em projetos com desenvolvimento web com framework Django, banco de dados MySQL e linguagem Python.
