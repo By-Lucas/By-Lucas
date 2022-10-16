@@ -81,7 +81,7 @@ Tenho conhecimento nas bibliotecas do ecosistema Python. Tecnologias utilizando 
 #
  <div align="center">
 <h1 align="center">Atualmente estudando: </h1>
-    <strong>- MongoDB <br>- Data Science & Marchine Learning <br>- Inglês</strong>
+    <strong><br>- Inglês na Wise Up</strong>
 </div> 
 
 #
