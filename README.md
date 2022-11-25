@@ -71,19 +71,27 @@
     </td>
   </tr>
   <tr>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>Docker</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=heroku" width="65px" alt="Heroku icon"/><br>
+      <sub>
+        <b>
+          <pre>Heroku</pre>
+        </b>
+      </sub>
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
       <sub>
         <b>
           <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
         </b>
       </sub>
     </td>
@@ -100,14 +108,6 @@
       <sub>
         <b>
           <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=heroku" width="65px" alt="Heroku icon"/><br>
-      <sub>
-        <b>
-          <pre>Heroku</pre>
         </b>
       </sub>
     </td>
