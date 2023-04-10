@@ -21,7 +21,7 @@
     <li>💻 Trabalhei como Dev Python RPA na empresa <a href="https://xcapitalbank.com.br/" target="_blank">X Capital Bank</a>, Dev Python Pleno na <a href="" target="_blank">Blusoft</a>, Dev Python <a href="https://xcapitalbank.com.br/" target="_blank">Boreal</a> e atualmente sou Desenvovledor Python Pleno na <a href="https://charismabi.com.br/" target="_blank">Charisma BI</a>, e estudo inglês na <a href="[https://wiseup.com/?source=direto](https://timesidiomas.com.br/)" target="_blank">Times Idioma</a>, mas já passei pela <a href="https://www.udemy.com.br/" target="_blank">Udemy</a>, <a href="https://www.alura.com.br/" target="_blank"> Alura</a>, <a href="https://www.dio.me/" target="_blank">DIO</a> e <a href="https://www.datascienceacademy.com.br/" target="_blank">Data Science Academy</a>.</li>
     <li>🔭 Para expandir cada vez mais minhas Stacks e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
     <li>🔮 Estou me especializando em backend, mas tenho boas noções de frontend, pois meu objetivo a longo prazo é me tornar especialista.</li>
-    <li>🚀 Atualmente me aprofundo: <b>Python</b>, <b>FastApi</b> e <b>Django</b>.</li>
+    <li>🚀 Atualmente me aprofundo: <b>Python</b>, <b>RPA</b>, <b>FastApi</b> e <b>Django</b>.</li>
 </ul>
 <br>
 
