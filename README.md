@@ -1,8 +1,6 @@
-<img align="left" width="100%" alt="about" src="https://www.lambdatest.com/resources/images/news24.gif"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ - Lucas Silva</i></h2>
-<img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
+<h2 align="center">📇 &ensp; <i>Bem vindo ao meu repositório!</i></h2>
+<!-- <img align="right" src="./analysis.gif" width="370px" alt="anime chilling"> -->
 <table align="center">
   <tr>
     <td>
@@ -17,17 +15,25 @@
 </table>
 
 <ul align="left">
-    <li>🤩️ Apaixonado por Tecnologia.</li>
-    <li>💻 Trabalhei como Dev Python RPA na empresa <a href="https://xcapitalbank.com.br/" target="_blank">X Capital Bank</a>, Dev Python Pleno na <a href="" target="_blank">Blusoft</a>, Dev Python <a href="https://xcapitalbank.com.br/" target="_blank">Boreal</a> e atualmente sou Desenvovledor Python Pleno na <a href="https://charismabi.com.br/" target="_blank">Charisma BI</a>, e estudo inglês na <a href="[https://wiseup.com/?source=direto](https://timesidiomas.com.br/)" target="_blank">Times Idioma</a>, mas já passei pela <a href="https://www.udemy.com.br/" target="_blank">Udemy</a>, <a href="https://www.alura.com.br/" target="_blank"> Alura</a>, <a href="https://www.dio.me/" target="_blank">DIO</a> e <a href="https://www.datascienceacademy.com.br/" target="_blank">Data Science Academy</a>.</li>
-    <li>🔭 Para expandir cada vez mais minhas Stacks e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
-    <li>🔮 Estou me especializando em backend, mas tenho boas noções de frontend, pois meu objetivo a longo prazo é me tornar especialista.</li>
-    <li>🚀 Atualmente me aprofundo: <b>Python</b>, <b>RPA</b>, <b>FastApi</b> e <b>Django</b>.</li>
+    <li>😄 Me chamo Lucas Silva.</li>
+    <li>📌 Capim Grosso - Bahia- Brasil.</li>
+    <li>👨🏽‍🎓 Cursando Inglês na Times Idioma</li>
+    <li>🎓 Formado em diversos cursos online direcionado a tecnologia com ótimas como um excelente autodidata e praticante.</li>
+    <li>💬 Ajudo pessoas em duvidas sobre Python. Pergunte-me algo, será um prazer ajuda-lo(a).</li>
+    <li>🔍 Entusiasta, curiosidade do desconhecido e amante do fora do padrão.</li>
+    <li>🌎 Desenvolvedor e Dono da <a href="https://www.linkedin.com/company/tk-global-technology/" target="_blank">TK Global Technology</a>, onde fiz diversos projetos como Freelancer - Dados, web, APIs, IA, Scraping, Bots e automações.</li>
+   <li>👨🏽‍🏫 Desenvolvedor Pleno e ajudo na gerência da equipe de Desenvolvedor na excelente empresa <a href="https://www.linkedin.com/company/charisma-business-intelligence/mycompany" target="_blank">Charisma</a> </li>
+    <li>👨🏽‍💻 OUTRAS EXPERIÊNCIAS: <br>
+      &ensp;&ensp;&ensp;Fui desenvolvedor Python RPA na <a href="https://xcapitalbank.com.br/" target="_blank">X Capital Bank</a>.<br> 
+      &ensp;&ensp;&ensp;Desenvolvedor Python Web/Scraping/Aws/API na <a href="https://www.linkedin.com/company/boreal-web30/" target="_blank">Boreal</a>.<br>
+      &ensp;&ensp;&ensp;Desenvolvedor Python Pleno (Django, API Bank) na <a href="https://www.linkedin.com/in/fandrefh/" target="_blank">Blusoft (Francisco)</a>.
+  </li>
 </ul>
 <br>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="279px">
+<table align="right" height="280px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="bash icon"/><br>
@@ -197,10 +203,9 @@
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="185px" src="./rain-study.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/1mfNh_8FhfjjVntkqbCNTAlOUmq5YeiIX/edit?usp=sharing&ouid=101904598122336045067&rtpof=true&sd=true">
@@ -222,7 +227,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
 <img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
@@ -304,7 +309,6 @@
 <details open>
 <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=By-Lucas&theme=tokyo-night&hide_border=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=By-Lucas&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
