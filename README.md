@@ -22,7 +22,7 @@
     <li>💬 Ajudo pessoas em duvidas sobre Python. Pergunte-me algo, será um prazer ajuda-lo(a).</li>
     <li>🔍 Entusiasta, curiosidade do desconhecido e amante do fora do padrão.</li>
     <li>🌎 Desenvolvedor e Dono da <a href="https://www.linkedin.com/company/tk-global-technology/" target="_blank">TK Global Technology</a>, onde fiz diversos projetos como Freelancer - Dados, web, APIs, IA, Scraping, Bots e automações.</li>
-   <li>👨🏽‍🏫 Desenvolvedor Pleno e ajudo na gerência da equipe de Desenvolvedor na excelente empresa <a href="https://www.linkedin.com/company/charisma-business-intelligence/mycompany" target="_blank">Charisma</a> </li>
+   <li>👨🏽‍🏫 Desenvolvedor Pleno e Tech Lead na excelente empresa <a href="https://www.linkedin.com/company/charisma-business-intelligence/mycompany" target="_blank">Charisma</a> </li>
     <li>👨🏽‍💻 OUTRAS EXPERIÊNCIAS: <br>
       &ensp;&ensp;&ensp;Fui desenvolvedor Python RPA na <a href="https://xcapitalbank.com.br/" target="_blank">X Capital Bank</a>.<br> 
       &ensp;&ensp;&ensp;Desenvolvedor Python Web/Scraping/Aws/API na <a href="https://www.linkedin.com/company/boreal-web30/" target="_blank">Boreal</a>.<br>
