@@ -1,343 +1,61 @@
-
-<h2 align="center">📇 &ensp; <i>Bem vindo ao meu repositório!</i></h2>
-<!-- <img align="right" src="./analysis.gif" width="370px" alt="anime chilling"> -->
-<table align="center">
-  <tr>
-    <td>
-      <b>
-        <a href="README.md">🇧🇷 Português</a>
-      </b>
-    </td>
-    <td>
-      <a href="readme-en.md">🇺🇸 English</a>
-    </td>
-  </tr>
-</table>
-
-<ul align="left">
-    <li>😄 Me chamo Lucas Silva.</li>
-    <li>📌 Capim Grosso - Bahia- Brasil.</li>
-    <li>👨🏽‍🎓 Cursando Inglês na Times Idioma</li>
-    <li>🎓 Formado em diversos cursos online direcionado a tecnologia com ótimas como um excelente autodidata e praticante.</li>
-    <li>💬 Ajudo pessoas em duvidas sobre Python. Pergunte-me algo, será um prazer ajuda-lo(a).</li>
-    <li>🔍 Entusiasta, curiosidade do desconhecido e amante do fora do padrão.</li>
-    <li>🌎 Desenvolvedor e Dono da <a href="https://www.linkedin.com/company/tk-global-technology/" target="_blank">TK Global Technology</a>, onde fiz diversos projetos como Freelancer - Dados, web, APIs, IA, Scraping, Bots e automações.</li>
-   <li>👨🏽‍🏫 Tech Lead & Python Pleno na excelente empresa <a href="https://www.linkedin.com/company/charisma-business-intelligence/mycompany" target="_blank">Charisma</a> </li>
-    <li>👨🏽‍💻 OUTRAS EXPERIÊNCIAS: <br>
-      &ensp;&ensp;&ensp;Fui desenvolvedor Python RPA na <a href="https://xcapitalbank.com.br/" target="_blank">X Capital Bank</a>.<br> 
-      &ensp;&ensp;&ensp;Desenvolvedor Python Web/Scraping/Aws/API na <a href="https://www.linkedin.com/company/boreal-web30/" target="_blank">Boreal</a>.<br>
-      &ensp;&ensp;&ensp;Desenvolvedor Python Pleno (Django, API Bank) na <a href="https://www.linkedin.com/in/fandrefh/" target="_blank">Blusoft (Francisco)</a>.
-  </li>
-</ul>
+<h1 align="left">👋 Hi there</h1>
+    <a href="https://docs.google.com/document/d/1mfNh_8FhfjjVntkqbCNTAlOUmq5YeiIX/edit?usp=sharing&amp;ouid=101904598122336045067&amp;rtpof=true&amp;sd=true" rel="nofollow" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
+    </a>
+<h3 align="left">
+&nbsp&nbsp&nbsp I'm Lucas, a dedicated Python developer and an ardent supporter of efficient efficiency practices. I'm currently improving my skills as a Tech Lead at @charismabi, where I also develop as full Python.
 <br>
-
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="280px">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="bash icon"/><br>
-      <sub>
-        <b>
-          <pre>Python</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Python icon"/><br>
-      <sub>
-        <b>
-          <pre>Django</pre>
-        </b>
-      </sub>
-    </td>
-     <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="60px" alt="FastAPI icon"/><br>
-      <sub>
-        <b>
-          <pre>FastAPI</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Flask icon"/><br>
-      <sub>
-        <b>
-          <pre>Flask</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS icon"/><br>
-      <sub>
-        <b>
-          <pre>AWS</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>Docker</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=heroku" width="65px" alt="Heroku icon"/><br>
-      <sub>
-        <b>
-          <pre>Heroku</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-  <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65px" alt="Django icon"/><br>
-      <sub>
-        <b>
-          <pre>Pandas</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="PostgreSQL icon"/><br>
-      <sub>
-        <b>
-          <pre>PostgreSQL</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="Mysql icon"/><br>
-      <sub>
-        <b>
-          <pre>Mysql</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="65px" alt="SQLite icon"/><br>
-      <sub>
-        <b>
-          <pre>SQLite</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="65px" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>SQLAlchemy</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-      <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;OpenCV&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
-      <sub>
-        <b>
-          <pre>VSCode</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="linux icon"/><br>
-      <sub>
-        <b>
-          <pre>Linux</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
-      <sub>
-        <b>
-          <pre>Windows</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-</table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<br><br>
-<p align="center">
-  <a href="https://docs.google.com/document/d/1mfNh_8FhfjjVntkqbCNTAlOUmq5YeiIX/edit?usp=sharing&ouid=101904598122336045067&rtpof=true&sd=true">
-    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
-  </a>
-  <a href="mailto:tekertudo@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/lucastk/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-  <a href="https://t.me/tkmilionario" alt="Telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
-  </a>
-  <a href="https://wa.me/5574981199190?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
-  </a>
-  <a href="https://www.instagram.com/lucas_mnc/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-  </a>
-
-<br><br>
-
-<h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
-<img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
-<table height="495px">
-  <tr>
-    <td>
-    <a href="https://github.com/By-Lucas/RPA-desbloquear-reCaptcha" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=RPA-desbloquear-reCaptcha&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-    <tr>
-    <td>
-    <a href="https://github.com/By-Lucas/user-register-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=FastApi-seguranca-JWT&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/By-Lucas/FastAPI-e-PostgreSQL" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=FastAPI-e-PostgreSQL&theme=tokyonight&hide_border=true">
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-     <a href="https://github.com/By-Lucas/Inteligencia-artificial-Vaga-de-estacionamento" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=Inteligencia-artificial-Vaga-de-estacionamento&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/By-Lucas/LucroRural-Development-Seletivo" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=LucroRural-Development-Seletivo&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/By-Lucas/AI-face-recognition-challenge" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=AI-face-recognition-challenge&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/By-Lucas/React_and_Django" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=React_and_Django&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/By-Lucas/LucroRural-Development" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=LucroRural-Development&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/By-Lucas/Linke-Job" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=Linke-Job&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/By-Lucas/Consume-api-Genius-with-Flask" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=By-Lucas&repo=Consume-api-Genius-with-Flask&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-</table>
 <br>
-
-<h2 align="center">
-<details open>
-<summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
-<br>
+&nbsp&nbsp&nbsp With a solid foundation and a full-stack perspective, I lead my team through the intricate dance of software development, with a focus on back-end services and automation tools. My journey so far has been full of challenges, learning and a constant quest to improve processes and deliver quality software.
 <br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=By-Lucas&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=By-Lucas&show_icons=true&custom_title=By-Lucas's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=By-Lucas&theme=tokyonight&hide_border=true">
-</div>
-</details>
-
-<h3><p align="center">Total de visitas no perfil:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/By-lucas/count.svg"/>
+&nbsp&nbsp&nbsp Founder of <a href="#" target="_blank">TK Global Technology</a> where I have been developing several projects with python, webs / desktop for over 4 years.
+</h3>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=by-lucas&label=Profile%20views&color=0e75b6&style=flat" alt="by-lucas" /> 
 </p>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="left">🚀 Expertise</h1>
+<h3 align="left">
+- 🎓 I am a graduate of several technology-focused online courses, recognized for my excellent self-taught skills and practical experience. 
+<br>- 💬 I enjoy assisting others with their Python queries. Feel free to ask me anything; I'd be glad to help. 
+<br>- 🔍 An enthusiast with a curiosity for the unknown and a love for the unconventional. 
+<br>- 👨🏽‍🏫 Currently a Tech Lead & Mid-Level Python Developer at the outstanding company <a href="#" target="_blank">Charismabi</a>.
+<br>- 👨🏽‍💻 OTHER EXPERIENCES:
+<br>    Previously a Python RPA Developer at <a href="#" target="_blank">X Capital Bank</a>.
+<br>    Python Web/Scraping/Aws/API Developer at <a href="#" target="_blank">Boreal</a>.
+<br>    Mid-Level Python Developer (Django, API Bank) at <a href="#" target="_blank">Clipse</a>.
+<br>    Dozens of freelancers by <a href="#" target="_blank">TK Global Technology</a> (web / Desktop).
+</h3>
 
-<a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
-</a>
 
-https://www.fancytextconverter.com/
+<br>
 
-- use SVGs in a next big update.
+<h1 align="left">💻 Tech Stack:</h1>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
--->
+<br>
+
+<h1 align="left">🌐 Socials:</h1>
+<p align="left" dir="auto">
+    <a href="https://wa.me/5574981199190?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" rel="nofollow"  target="_blank">
+    <img src="https://camo.githubusercontent.com/bd8936fd96d865e84b2615fa65d534024a35549c61ed0e04c0cfedca4d34c475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" alt="whatsapp" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="mailto:tekertudo@gmail.com" alt="Gmail" target="_blank">
+    <img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/lucastk/" alt="Linkedin" rel="nofollow" target="_blank">
+    <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://t.me/tkmilionario" alt="Telegram" rel="nofollow" target="_blank">
+    <img src="https://camo.githubusercontent.com/afaa74bcd8ebafeffb8c818bfa55e4b4923498b32ccbb1189fcc170fd43b490c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://www.instagram.com/lucas_mnc/" alt="Instagram" rel="nofollow" target="_blank">
+    <img src="https://camo.githubusercontent.com/25086f56cd45be5a899ae3feff86e2002bbd656fa569b666d2dd828b538fc9e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+</p>
+</p>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=by-lucas" alt="by-lucas" target="_blank"/></a> </p>
+
+<hr>
