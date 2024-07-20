@@ -19,11 +19,12 @@
 - 🎓 I am a graduate of several technology-focused online courses, recognized for my excellent self-taught skills and practical experience. 
 <br>- 💬 I enjoy assisting others with their Python queries. Feel free to ask me anything; I'd be glad to help. 
 <br>- 🔍 An enthusiast with a curiosity for the unknown and a love for the unconventional. 
-<br>- 👨🏽‍🏫 Currently a Tech Lead & Mid-Level Python Developer at the outstanding company <a href="#" target="_blank">Charismabi</a>.
+<br>- 👨🏽‍🏫 Currently a Tech Lead & Python Developer at the outstanding company <a href="#" target="_blank">Charismabi</a>.
 <br>- 👨🏽‍💻 OTHER EXPERIENCES:
 <br>    Previously a Python RPA Developer at <a href="#" target="_blank">X Capital Bank</a>.
 <br>    Python Web/Scraping/Aws/API Developer at <a href="#" target="_blank">Boreal</a>.
-<br>    Mid-Level Python Developer (Django, API Bank) at <a href="#" target="_blank">Clipse</a>.
+<br>    Mid-Level Python Developer (FullStack) at <a href="#" target="_blank">Clipse</a>.
+<br>    Mid-Level Python Developer (FullStack) at <a href="#" target="_blank">BKHUB</a>.
 <br>    Dozens of freelancers by <a href="#" target="_blank">TK Global Technology</a> (web / Desktop).
 </h3>
 
