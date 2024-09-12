@@ -29,7 +29,6 @@
 <br>      Dozens of freelancers by <a href="#" target="_blank">TK Global Technology</a> (web / Desktop).
 </h3>
 
-
 <br>
 
 <h1 align="left">💻 Tech Stack:</h1>
