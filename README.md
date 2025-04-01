@@ -25,7 +25,7 @@
 <br>      Python Web/Scraping/Aws/API Developer at <a href="#" target="_blank">Boreal</a>.
 <br>      Mid-Level Python Developer (FullStack) at <a href="#" target="_blank">Clipse</a>.
 <br>      Mid-Level Python Developer (FullStack) at <a href="#" target="_blank">BKHUB</a>.
-<br>      Tech Lead and Python Developer at <a href="#" target="_blank">ShopPub</a>.
+<br>      Python Developer Sr at <a href="#" target="_blank">ShopPub</a>.
 <br>      Dozens of freelancers by <a href="#" target="_blank">TK Global Technology</a> (web / Desktop).
 </h3>
 
