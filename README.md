@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hey, I'm Lucas</h1> <a href="https://docs.google.com/document/d/1mfNh_8FhfjjVntkqbCNTAlOUmq5YeiIX/edit?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"> </a> <h3 align="left">
-💼 Senior Python Developer & Tech Lead at <a href="#" target="_blank">@charismabi</a><br>
+💼 Senior Python Developer & Tech Lead<br>
 
 I'm a passionate software engineer with strong leadership experience and deep expertise in backend development, process automation, system architecture and API integration. My core strength lies in building scalable, robust and efficient solutions using Python and modern web frameworks.
 
