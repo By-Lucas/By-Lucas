@@ -5,11 +5,11 @@
 </a>
 
 <h3 align="left">
-💼 Senior Python Developer | Especialista em IA Generativa, Dados e Integrações Financeiras
+💼 Senior Python Developer | Expert in Generative AI, Data Engineering & Financial Integrations
 
-Sou um engenheiro de software com mais de 6 anos de experiência em IA, pipelines de dados, scraping avançado, automações inteligentes e sistemas financeiros. Tenho forte atuação em projetos B2B, e-commerce, saúde, ESG, cripto e inovação tecnológica.
+I'm a software engineer with over 6 years of experience designing scalable backends, building intelligent systems with LLMs, and automating real-world operations in logistics, finance, health, ESG, and e-commerce.
 
-Como Tech Lead e fundador da <a href="#">TK Global Technology</a>, já desenvolvi soluções robustas com IA generativa, RPA, APIs financeiras, arquiteturas escaláveis e automações de dados, sempre focado em valor real e excelência técnica.
+As Tech Lead and founder of <a href="#">TK Global Technology</a>, I architect end-to-end solutions using Generative AI, FastAPI, RPA, and custom data pipelines — always focused on real value and excellence.
 </h3>
 
 <p align="left">
@@ -18,44 +18,44 @@ Como Tech Lead e fundador da <a href="#">TK Global Technology</a>, já desenvolv
 
 ---
 
-<h1 align="left">🚀 Experiências Profissionais</h1>
+<h1 align="left">🚀 Work Experience</h1>
 
-- 👨🏽‍💻 <b>ShopPub</b> | Tech Lead / Python SR – Logística, e-commerce, integração com ERPs, antifraudes e IA generativa.
-- 🧠 <b>Charisma</b> | Tech Lead / Python SR – IA, LLMs, reputação de mercado, crimpagem de dados, automações em múltiplos idiomas.
-- 🧩 <b>TK Global Technology</b> | Fundador – Projetos com IA generativa, pipelines de dados, scraping, APIs financeiras e CRMs.
-- 🏦 <b>X Capital Bank</b> | RPA Developer – Automação com Selenium e reconhecimento de imagem em criptoativos e NFTs.
-- 🧮 <b>Boreal Tecnologia</b> | Python FullStack – Carteira digital, automação de CNPJs, integração ASAAS e ESG.
-- 💻 <b>Global Tech Holding / Blusoft</b> | FullStack – Sistema SaaS bancário com consultas de crédito e APIs financeiras.
-- 📊 <b>BK Open</b> | FullStack – Plataforma bancária integrada com Kanban, Celery, Docker e painel administrativo.
+- 🏢 <b>ShopPub</b> | Tech Lead – Logistics, e-commerce, ERPs, fraud prevention & Generative AI.
+- 🧠 <b>Charisma</b> | Tech Lead – LLMs, NLP, data benchmarking & automation in multiple languages.
+- 🧩 <b>TK Global Technology</b> | Founder – AI-driven systems, data engineering, RPA, financial APIs & CRMs.
+- 🏦 <b>X Capital Bank</b> | RPA Developer – Crypto wallet automation using Selenium and image recognition.
+- 🌱 <b>Boreal Tecnologia</b> | FullStack Dev – Digital wallet, ESG integrations & third-party data automation.
+- 💻 <b>Global Tech / Blusoft</b> | FullStack – SaaS for clinics integrated with banks and credit APIs.
+- 📊 <b>BK Open</b> | FullStack – Banking platform with Celery, Docker, Kanban and admin dashboards.
 
 ---
 
-<h1 align="left">🎯 Principais Projetos</h1>
+<h1 align="left">🎯 Highlight Projects</h1>
 
-- 💡 **IA Generativa & LLMs:** GPT-4, LangChain, FAISS, embeddings, agentes autônomos e análise de sentimentos com NLP.
-- 🔁 **Data Engineering:** ETL com PySpark, Airflow, Azure Data Factory, Data Lakes e Data Warehouses.
-- 💳 **Integrações Financeiras:** Pix, Boleto, Cartão, APIs de bancos e automações de conciliação e antifraude.
-- 🤖 **RPA & Scraping:** Selenium, Playwright, scraping massivo com autenticação e orquestração via Celery e Redis.
-- 💬 **Bots & Comunicação Inteligente:** WhatsApp/Telegram bots, automações com NLP, análise de texto e atendimento automatizado.
-- 🌎 **Projetos Full Stack:** Plataformas com Django, FastAPI, React, PostgreSQL, Docker e escalabilidade real.
+- 💡 **Generative AI & LLMs:** GPT-4, LangChain, FAISS, embeddings, RAG, smart agents, NLP sentiment analysis.
+- 🔁 **Data Engineering:** PySpark ETL, Airflow, Azure Data Factory, Data Lakes & Warehouse automation.
+- 💳 **Fintech Integrations:** Pix, Boleto, Credit Card, financial reconciliation, anti-fraud, insurance systems.
+- 🤖 **RPA & Scraping:** Scalable scraping via Selenium & Playwright, tokenized auth, Redis caching, Celery orchestration.
+- 💬 **Conversational Bots:** WhatsApp/Telegram bots with NLP, real-time monitoring and auto-responses.
+- 🌐 **Full Stack Systems:** Django + FastAPI APIs, React dashboards, PostgreSQL + Docker in scalable microservices.
 
 ---
 
 <h1 align="left">🛠 Tech Stack</h1>
 
 <p align="left">
-<b>🧠 IA & NLP:</b> GPT-4, LangChain, FAISS, OpenAI API, Spacy, NLTK, Sklearn, TensorFlow, OpenCV<br>
-<b>🧪 Dados & ETL:</b> PySpark, Airflow, Azure Data Factory, Databricks, Data Lake, Pandas, NumPy<br>
-<b>📦 Backend:</b> Django, FastAPI, Flask, DRF, Celery, RabbitMQ, Redis, APIs REST/GraphQL<br>
-<b>🧑‍💻 Frontend:</b> React, Angular, JavaScript, HTML, CSS, Bootstrap<br>
-<b>🗃 Banco de Dados:</b> PostgreSQL, MongoDB, BigQuery, Redis, SQLite<br>
-<b>☁️ DevOps & Cloud:</b> AWS, Azure, Docker, Kubernetes, GitHub Actions, Sentry, DataDog, Jupyter, Heroku<br>
-<b>🛠 Outros:</b> Selenium, Playwright, OAuth, N8N, Customer.io, GitLab, Kanban, Scrum
+<b>🧠 AI & NLP:</b> GPT-4, LangChain, FAISS, OpenAI API, Spacy, NLTK, Sklearn, TensorFlow, OpenCV<br>
+<b>📊 Data & ETL:</b> PySpark, Airflow, Azure Data Factory, Databricks, Data Lake, Pandas, NumPy<br>
+<b>⚙️ Backend:</b> FastAPI, Django, Flask, DRF, Celery, RabbitMQ, Redis, REST/GraphQL APIs<br>
+<b>💻 Frontend:</b> React, Angular, JavaScript, HTML, CSS, Bootstrap<br>
+<b>🗄️ Databases:</b> PostgreSQL, MongoDB, BigQuery, Redis, SQLite<br>
+<b>☁️ DevOps & Cloud:</b> AWS, Azure, Docker, Kubernetes, GitHub Actions, Sentry, DataDog, Jupyter<br>
+<b>🧰 Other Tools:</b> Selenium, Playwright, OAuth, N8N, Customer.io, GitLab, Jira, Scrum
 </p>
 
 ---
 
-<h1 align="left">🌐 Contato</h1>
+<h1 align="left">🌐 Contact</h1>
 
 <p align="left">
   <a href="https://wa.me/5574981199190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
