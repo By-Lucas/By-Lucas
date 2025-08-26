@@ -20,7 +20,7 @@ As Tech Lead and founder of <a href="#">TK Global Technology</a>, I architect en
 
 <h1 align="left">🚀 Work Experience</h1>
 
-- 🏢 <b>Itaú</b> | Analista Desenvolvedor Sênior – Banco, Rastro, ERPs, Aws, QuickSight.
+- 🏢 <b>Itaú</b> | Senior Developer Analyst – Bank, Rastro, Aws, Data Analyst, QuickSight..
 - 🏢 <b>ShopPub</b> | Tech Lead – Logistics, e-commerce, ERPs, fraud prevention & Generative AI.
 - 🧠 <b>Charisma</b> | Tech Lead – LLMs, NLP, data benchmarking & automation in multiple languages.
 - 🧩 <b>TK Global Technology</b> | Founder – AI-driven systems, data engineering, RPA, financial APIs & CRMs.
