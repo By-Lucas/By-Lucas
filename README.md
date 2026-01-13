@@ -21,9 +21,9 @@ As Tech Lead and founder of <a href="#">TK Global Technology</a>, I architect en
 <h1 align="left">🚀 Work Experience</h1>
 
 - 🏢 <b>Itaú</b> | Senior Developer Analyst – Bank, Rastro, Aws, Data Analyst, QuickSight, Streamlit, SageMake, Glue..
-- 🏢 <b>Teltec Solutions</b> | Software engineer – AI, Data Engineering, Azure, Websocket, Education Sector (Courses).
-- 🏢 <b>ShopPub</b> | Tech Lead – Logistics, e-commerce, ERPs, fraud prevention & Generative AI.
-- 🧠 <b>Charisma</b> | Tech Lead – LLMs, NLP, data benchmarking & automation in multiple languages.
+- 🏢 <b>Teltec Solutions</b> | Senior Software engineer – AI, Data Engineering, Azure, Websocket, Education Sector (Courses).
+- 🏢 <b>ShopPub</b> | Tech Lead & Senior Python – Logistics, e-commerce, ERPs, fraud prevention & Generative AI.
+- 🧠 <b>Charisma</b> | Tech Lead & Senior Python – LLMs, NLP, data benchmarking & automation in multiple languages.
 - 🧩 <b>TK Global Technology</b> | Founder – AI-driven systems, data engineering, RPA, financial APIs & CRMs.
 - 🏦 <b>X Capital Bank</b> | RPA Developer – Crypto wallet automation using Selenium and image recognition.
 - 🌱 <b>Boreal Tecnologia</b> | FullStack Dev – Digital wallet, ESG integrations & third-party data automation.
