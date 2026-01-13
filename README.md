@@ -7,7 +7,7 @@
 <h3 align="left">
 💼 Senior Python Developer | Expert in Generative AI, Data Engineering & Financial Integrations
 
-I'm a software engineer with over 6 years of experience designing scalable backends, building intelligent systems with LLMs, and automating real-world operations in logistics, finance, health, ESG, and e-commerce.
+I'm a software engineer with over 7 years of experience designing scalable backends, building intelligent systems with LLMs, and automating real-world operations in logistics, finance, health, ESG, and e-commerce.
 
 As Tech Lead and founder of <a href="#">TK Global Technology</a>, I architect end-to-end solutions using Generative AI, FastAPI, RPA, and custom data pipelines — always focused on real value and excellence.
 </h3>
